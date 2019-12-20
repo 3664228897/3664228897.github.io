@@ -1,0 +1,8 @@
+User-agent: *
+Host: https://vybor-proekt.ru
+Sitemap: https://vybor-proekt.ru/sitemap.xml
+Disallow: /js
+Disallow: /css
+Disallow: /fonts
+Disallow: /scss
+Disallow: /images
